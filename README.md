@@ -1,4 +1,4 @@
-### Olá seja bem vindo(a) 👋
+### Olá sejam bem vindos(a) 👋
 
 <div align="center">
   <a href="https://github.com/Carlos-Eduardo5Qs">
