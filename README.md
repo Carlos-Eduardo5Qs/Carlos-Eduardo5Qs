@@ -21,7 +21,6 @@
   
   ![snake gif](https://github.com/Carlos-Eduardo5Qs/Carlos-Eduardo5Qs/blob/output/github-contribution-grid-snake.svg)
   
-  
 </div>
 
 
