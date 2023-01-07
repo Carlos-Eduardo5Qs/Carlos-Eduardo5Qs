@@ -1,7 +1,6 @@
 ### Olá sejam bem vindos(a) ao meu perfil!!👋
 
 <div align="center">
-  <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo5Qs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo5Qs&layout=compact&langs_count=7&theme=dark"/>
 </div>  
